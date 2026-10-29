@@ -1,0 +1,15 @@
+version = "5.3.0+0"
+name = "AMD_FFTW_jll"
+uuid = "5836b5be-9a4b-50ee-9da8-a75ff7574692"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.9"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"

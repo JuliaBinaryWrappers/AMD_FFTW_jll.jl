@@ -1,0 +1,9 @@
+[[AMD_FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "a392a118204dd5923a5d24d650c9ac4c15ae4a0d"
+libc = "glibc"
+os = "linux"
+
+    [[AMD_FFTW.download]]
+    sha256 = "002bbdf2b3541c4d5c67ed007647f1c3969710adde8078568a8fed1c27e3633f"
+    url = "https://github.com/JuliaBinaryWrappers/AMD_FFTW_jll.jl/releases/download/AMD_FFTW-v5.3.0+0/AMD_FFTW.v5.3.0.x86_64-linux-gnu.tar.gz"
